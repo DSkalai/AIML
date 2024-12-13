@@ -1,0 +1,14 @@
+{
+  "name": "SAMS_GOV_Proj",
+  "description": "Blank Project",
+  "main": "Main.xaml",
+  "dependencies": {},
+  "excludedData": [
+    "Private:*",
+    "*password*"
+  ],
+  "toolVersion": "18.2",
+  "projectVersion": "1.0.7202.17004",
+  "packOptions": {},
+  "runtimeOptions": {}
+}
